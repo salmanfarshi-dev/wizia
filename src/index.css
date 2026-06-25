@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+@import "tailwindcss";
+@import "@heroui/styles"; 
+
+
+
+@theme{
+  --font-montserrat: "Montserrat", sans-serif;
+  --font-sans: "Work Sans", sans-serif;
+
+
+  --color-success: #0FF1F6;    
+  --color-primary: #002228;
+  --color-secondary: #96ACAF;
+
+}
