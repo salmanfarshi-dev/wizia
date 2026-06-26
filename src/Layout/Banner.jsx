@@ -23,7 +23,7 @@ function Banner() {
 
           <div className="mt-6">
              <Button
-             className="!w-full md:!w-fit flex gap-x-2 items-center"
+             className="w-full md:w-fit! flex gap-x-2 items-center"
               variant="contained"
               sx={{
                 padding: "10px 16px",

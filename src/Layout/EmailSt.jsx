@@ -5,11 +5,11 @@ import { FaRegCheckCircle } from "react-icons/fa";
 function EmailSt() {
   return (
     <section className="max-w-330 mx-auto mb-10 md:mb-24 px-4 md:px-0">
-      <div className="bg-background overflow-hidden rounded-[24px] flex flex-col-reverse md:flex-row items-center gap-x-30 px-4 md:px-0 pt-8  pb-8 md:pb-0  relative">
+      <div className="bg-[#0D292F] overflow-hidden rounded-[24px] flex flex-col-reverse md:flex-row items-center gap-x-30 px-4 md:px-0 pt-8  pb-8 md:pb-0  relative">
         <div className="">
           <img src={Emailstimage} alt="" className="md:-scale-x-100 w-50 md:w-full md:static absolute bottom-0" />
         </div>
-        <div className="">
+        <div className="z-10">
           <h3 className="text-white text-[28px] md:text-[40px] font-semibold tracking-[-1%] w-[259px] md:w-full flex-wrap">
             Train your aiDR on your...
           </h3>

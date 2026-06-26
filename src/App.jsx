@@ -5,6 +5,9 @@ import Colaboretion from './Layout/Colaboretion'
 import Cards from './Layout/Cards'
 import EmailSt from './Layout/EmailSt'
 import Slider from './Layout/Slider'
+import Alocate from './Layout/Alocate'
+import Outbound from './Layout/Outbound'
+import Footer from './Layout/Footer'
 
 function App() {
   return (
@@ -15,6 +18,9 @@ function App() {
    <Cards/>
    <EmailSt/>
    <Slider/>
+   <Alocate/>
+   <Outbound/>
+   <Footer/>
    </>
   )
 }
