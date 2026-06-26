@@ -6,6 +6,18 @@
 @import "@heroui/styles"; 
 
 
+.slider .swiper-pagination {
+  position: relative !important;
+  margin-top: 40px;
+}
+
+.slider .swiper-pagination-bullet {
+  @apply bg-gray-500;
+}
+
+.slider .swiper-pagination-bullet-active {
+  @apply bg-cyan-400;
+}
 
 @theme{
   --font-montserrat: "Montserrat", sans-serif;
@@ -15,5 +27,6 @@
   --color-success: #0FF1F6;    
   --color-primary: #002228;
   --color-secondary: #96ACAF;
+  --color-background: #07292F;
 
 }
