@@ -1,5 +1,5 @@
 import React from "react";
-import Bannerimage from '../assets/bannerimage.png'
+import Bannerimage from '../assets/bannerimages.png'
 import Button from "@mui/material/Button";
 import { BsArrowUpRightSquare } from "react-icons/bs";
 

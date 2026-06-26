@@ -1,5 +1,5 @@
 import React from "react";
-import Emailstimage from "../assets/BG.png";
+import Emailstimage from "../assets/bgs.png";
 import { FaRegCheckCircle } from "react-icons/fa";
 
 function EmailSt() {
